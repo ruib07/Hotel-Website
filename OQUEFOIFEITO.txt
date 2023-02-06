@@ -1,0 +1,13 @@
+O que foi feito no trabalho:
+-Páginas html modificadas e traduzidas;
+-Página html da reserva 100% modificada para conseguir fazer a reserva e anular;
+-Foi feito um botão para voltar ao topo com html, css (style.css) e js (main.js);
+-Ao preencher todos os dados no formulário da reserva e clicar no botão de reservar, mostra na consola do desenvolvedor os dados do
+cliente, o tipo de quarto, o total a pagar, o que foi faturado por mês, ano e os dias reservados por mês e ano. Também dá um alert
+para mostrar o tipo de quarto, total a pagar e a confirmar a reserva;
+-Ao clicar no botão de anular, se o quarto estiver livre o programa dá um alert a dizer que o quarto está disponivel caso contrário,
+anula a reserva e o quarto fica disponivel para fazer a reserva.
+
+JavaScript feito está no main.js e está da linha 212-462.
+CSS feito está no style.css e está na linha 1813-1854.
+HTML feito foi para traduzir as páginas para português e adicionar campos ao formulário de reserva e botão de anular reserva.
